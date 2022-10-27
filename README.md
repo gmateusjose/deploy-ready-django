@@ -39,3 +39,5 @@ django-admin startproject django_project
 ```
 
 - Create `Dockerfile` and `docker-compose.yml`
+
+## Create a custom user model
