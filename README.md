@@ -28,6 +28,11 @@ Create a virtual environment
 python -m venv venv
 ```
 
+Activate virtual environment
+```
+source venv/bin/activate
+```
+
 ## Requirements
 
 Create a directory `requirements` and place `base.txt`, `local.txt`, `production.txt` and `tests.txt` to keep track of project's requirements
